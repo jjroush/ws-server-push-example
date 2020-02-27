@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "12.x.x"
+  },
   "name": "kure-885-server",
   "version": "1.0.0",
   "description": "Websocket server to provide PWA with song information.",
