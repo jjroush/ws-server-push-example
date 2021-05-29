@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jjroush/kure-885-server#readme",
   "dependencies": {
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   }
 }
